@@ -7,6 +7,13 @@ et l'application a aussi une partie d'authentification interface Login et interf
 
 <img src="https://github.com/chabbiyosr/Gestion-des-Employees-Spring-Boot-Angular/blob/master/Liste%20des%20employes.PNG">
 
+<img src="https://github.com/chabbiyosr/Gestion-des-Employees-Spring-Boot-Angular/blob/master/Login.PNG">
+
+<img src="https://github.com/chabbiyosr/Gestion-des-Employees-Spring-Boot-Angular/blob/master/Register.PNG">
+
+<img src="https://github.com/chabbiyosr/Gestion-des-Employees-Spring-Boot-Angular/blob/master/Add%20Employee.PNG">
+
+
 
 # AngularFrontend
 
