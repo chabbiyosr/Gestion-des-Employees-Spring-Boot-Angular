@@ -1,3 +1,13 @@
+# Gestion des Employées Spring Boot Angular 🔧⚙👔
+
+L'application des Employées Spring Boot Angular est application  permet de faire la gestion des employées, les CRUD (Ajouter, Supprimer et Modifier).
+et l'application a aussi une partie d'authentification interface Login et interface register.
+
+## Screenshots
+
+<img src="https://github.com/chabbiyosr/Gestion-des-Employees-Spring-Boot-Angular/blob/master/Liste%20des%20employes.PNG">
+
+
 # AngularFrontend
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.1.
